@@ -1,0 +1,33 @@
+#test{
+    color: papayawhip;
+    background-color: blue;
+     font-size:'40px';
+}
+.demo{
+    color: brown;
+    background-color: mediumaquamarine;
+    font-size: '50px';
+}
+p{
+    color: red;
+    background-color: yellowgreen;
+    font-size: "60px";
+}
+h2,pre,h4,div{
+    color:purple;
+    background-color: orange;
+    font-size: "60px";
+}
+*{
+    background-color: pink;
+}
+div{
+    width: 700px;
+    height: 400px;
+    border: 4px groove pink;
+    background-color: aqua;
+    background-image: url(../css/aish.jpg);
+    background-repeat: no-repeat;
+    background-position: top,center,top left,top right,right bottom,left bottom;
+    background-size: 150 px,150px,150px,150px,150px,150px;
+}

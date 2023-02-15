@@ -1,0 +1,58 @@
+pre,p,h2{
+    color: aquamarine;
+    background-color: black;
+}
+ *{
+    color: rgb(185, 234, 36);
+    background-color: rgb(27, 26, 16);
+} 
+#demo{
+    color: antiquewhite;
+    font-size:"30px";
+}
+#test{
+    background-color: blueviolet;
+    color: aqua;
+}
+#tester{
+    color: aqua;
+    font-size: "40px";
+}
+div h1{
+    background-color: red;
+    color: aqua;
+} 
+div >h1{
+    background-color: brown;
+    color: antiquewhite;
+}
+div{
+    width: 600px;
+    height: 400px;
+    border: 5px solid;
+    background-image: url(../);
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: aqua;
+}
+a:hover{
+    color: blueviolet;
+}
+a:active{
+    color: yellow;
+}
+div{
+    width: 200px;
+    height: 100px;
+    border: 4px insert red;
+    background-color: pink;
+    border-top:10px groove yellow
+    padding: 10px;
+    padding: right 110px;
+    margin:5px;
+    margin-top: 50px;
+    opacity:1;
+}
